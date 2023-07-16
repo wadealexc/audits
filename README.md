@@ -4,7 +4,7 @@ List of most audits I've been a part of, with links to reports (if public).
 
 ### Solo
 
-**2022:**
+**2022/2023:**
 
 | Company/Project | Report | Category |
 | -------- | -------- | -------- |
